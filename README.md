@@ -33,8 +33,8 @@ A collection of useful examples, libraries, and other resources related to HCL A
 - [AppScan Presence Dockerfile (.md)](https://github.com/jrocia/AppScanPresence-Dockerfile) - **[ASoC]** Configure ASoC Appscan Presence to run inside a container.
 - [ASoC Automation Snippets (.py, .bat)](https://github.com/HCL-TECH-SOFTWARE/asoc-automation-snippets) - **[ASoC]** Example code snippets for programmatically interacting with ASoC.
 - [ASoC SAST Linux (.py)](https://github.com/cwtravis/asoc-sast-linux) - **[ASoc]** Run an ASoC SAST scan on a linux machine.
-- [ASoC GitHub Action Demo (.yml)](https://github.com/antonychiu2/ASoC_Demo) - End-to-end walkthrough of ASoC SAST via GitHub Actions.
-- [ASoC Apex Scanning (.yml)](https://github.com/cwtravis/asoc-apex-demo) - **[ASoc]** Uses GitHub Actions to initate ASoC SAST scan of Apex code.
+- [ASoC GitHub Action Demo (.yml)](https://github.com/antonychiu2/ASoC_Demo) - **[ASoC]** End-to-end walkthrough of ASoC SAST via GitHub Actions.
+- [ASoC Apex Scanning (.yml)](https://github.com/cwtravis/asoc-apex-demo) - **[ASoC]** Uses GitHub Actions to initate ASoC SAST scan of Apex code.
 
 
 ### Miscellaneous Tools
