@@ -64,12 +64,12 @@ A collection of useful examples, libraries, and other resources related to HCL A
 - [AppScan 2 Excel (.py)](https://github.com/masquerad3r/Appscan2Excel) - Merge data from AppScan DAST scan log and .XML report and output .xlsx file.
 - [AppScan to Archer (.py)](https://github.com/smit1759/appscan-to-archer) - Import AppScan results into RSA Archer.
 
-### Media
+## Media
 - [Application Paranoia Podcast](https://appscan.buzzsprout.com/) - Twice-monthly podcast about Applicaiton Security, DevSecOps, and AppScan.
 - [AppScan Tuesdays Archive](https://www.youtube.com/channel/UCzizunEqoF1e-pHd04JAZ2Q) - Weekly Video AppScan Podcast.
 - [HCL Software YouTube](https://www.youtube.com/playlist?list=PL2tETTrnR4wvtkgR6ILKOdoQIP_o9MF1u) - Playlist of AppScan content on main HCL Software YouTube channel.
 
-### Other Links
+## Other Links
 - [AppScan Documentation](https://help.hcltechsw.com/appscan/Welcome.html) - Offical documentation page for all AppScan products.
 clod
 - [AppScan on Cloud Plugins & APIs](https://cloud.appscan.com/plugins) - Updated list of ASoC plugins and APIs.
