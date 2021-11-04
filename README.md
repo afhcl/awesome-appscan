@@ -37,6 +37,7 @@ A collection of useful examples, libraries, and other resources related to HCL A
 - [ASoC SAST Linux (.py)](https://github.com/cwtravis/asoc-sast-linux) - Run an ASoC SAST scan on a linux machine.
 - [AltoroJ ASoC GitHub Action (.yml)](https://github.com/cwtravis/AltoroJ-Github-Actions) - Example using GitHub Actions to run a SAST scan on the AltoroJ 3.2 codebase.
 - [ASoC GitHub Action Demo (.yml)](https://github.com/antonychiu2/ASoC_Demo) - End-to-end walkthrough of ASoC SAST via GitHub Actions.
+- [ASoC SAST Circle CI Demo (.yml)](https://github.com/antonychiu2/CircleCI/blob/main/config.yml) - Scan using ASoC SAST kicked off via CircleCI.
 - [ASoC Apex Scanning (.yml)](https://github.com/cwtravis/asoc-apex-demo) - Uses GitHub Actions to initate ASoC SAST scan of Apex code.
 - [ASoC DAST Scheduling (.py)](https://github.com/dwwatk02/automation) - Run a list of configured scans.
 - [Expanded Github Action Demo](https://github.com/glhcl/ASoCActionDemo) - Multiple examples including CodeSweep for VS Code and GitHub, and ASoC GitHub action demo.
@@ -57,6 +58,9 @@ A collection of useful examples, libraries, and other resources related to HCL A
 ### AS Build Plugins
 - [AppScan Source Gradle Plugin (.groovy)](https://github.com/HCL-TECH-SOFTWARE/appscan-source-gradle-plugin) - Gradle plugin for integrating via the AppScan Source CLI.
 - [AppScan Source Maven Plugin (.java)](https://github.com/HCL-TECH-SOFTWARE/ounce-maven-plugin) - Integrate SAST security testing into your Maven build.
+
+### AS Usage Examples
+- [Azure Devops AppScan Source SAST scan](https://github.com/antonychiu2/AltoroJ) - Demo automation workflow from Azure DevOps to check out code from GitHub and scan with AppScan Source.
 
 ## Miscellaneous Tools
 - [AppScan Langs (.py)](https://github.com/gledonne/appscanlangs) - Programatically get a list of languages supported by AppScan SAST tools.
