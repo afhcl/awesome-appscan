@@ -22,6 +22,7 @@ A collection of useful examples, libraries, and other resources related to HCL A
 - [ASoC Jenkins plugin (.java)](https://github.com/jenkinsci/appscan-plugin) - Integrate ASoC SAST and DAST security testing in Jenkins.
 - [ASoC Bamboo Plugin (.java)](https://github.com/HCL-TECH-SOFTWARE/appscan-bamboo-plugin) - Integrate ASoC security scanning into Atlassian Bamboo builds.
 - [ASoC GoCD Plugin (.java)](https://github.com/HCL-TECH-SOFTWARE/appscan-gocd-plugin) - Integrate ASoC security scanning into a GoCD pipeline.
+- [ASoC Azure DevOps Plugin](https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.ApplicationSecurity-VSTS) - ASoC Azure DevOps plugin on the VisualStudio Marketplace.
 - [ASoC Maven Plugin (.java)](https://github.com/HCL-TECH-SOFTWARE/appscan-maven-plugin) - Integrate SAST Security testing into your Maven build.
 - [ASoC Gradle Plugin (.groovy)](https://github.com/HCL-TECH-SOFTWARE/appscan-gradle-plugin) - Gradle plugin for integrating with HCL AppScan on Cloud. 
 - [CodeSweep GitHub Extension (.yml)](https://github.com/HCL-TECH-SOFTWARE/appscan-codesweep-action) - Run the CodeSweep scan engine as a github action.
@@ -49,6 +50,7 @@ A collection of useful examples, libraries, and other resources related to HCL A
 ## AppScan Enterprise (ASE)
 ### ASE Build Plugins
 - [AppScan Jenkins plugin (.java)](https://github.com/jenkinsci/appscan-plugin) - Integrate ASE DAST security testing in Jenkins.
+- [AppScan Enterprise Azure DevOps Plugin](https://marketplace.visualstudio.com/items?itemName=HCLTechnologies.ApplicationSecurity-VSTS) - AppScan Enterprise Azure DevOps plugin on the VisualStudio Marketplace.
 ### ASE Wrappers / Libraries / Etc
 - [AppScan SDK (.java)](https://github.com/HCL-TECH-SOFTWARE/appscan-sdk) - SDK for interacting with AppScan Enterprise ADAC jobs.
 - [AppScan Automation Framework (.js)](https://github.com/HCL-TECH-SOFTWARE/appscan-automation-framework) - Node.js wrappers around many ASE APIs.
