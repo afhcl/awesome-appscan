@@ -43,6 +43,7 @@ A collection of useful examples, libraries, and other resources related to HCL A
 - [ASoC Apex Scanning (.yml)](https://github.com/cwtravis/asoc-apex-demo) - Uses GitHub Actions to initate ASoC SAST scan of Apex code.
 - [ASoC DAST Scheduling (.py)](https://github.com/dwwatk02/automation) - Run a list of configured scans.
 - [Expanded Github Action Demo](https://github.com/glhcl/ASoCActionDemo) - Multiple examples including CodeSweep for VS Code and GitHub, and ASoC GitHub action demo.
+- [ASoC GitLab Demo](https://github.com/jrocia/Integration-ASoC-and-Gitlab) - Example GitLab YAML for performing ASoC SAST and DAST scans.
 ### ASoC Tools
 - [ASoC Webhook Proxy (.py)](https://github.com/cwtravis/asoc-wehbook-proxy) - Capture, modfiy, and reroute ASoC Webhook requests to send alerts to Discord, Slack, etc.
 - [Auto XML Config (.py)](https://github.com/alexhcl/autoxmlconfig) - Programatically generate an ASoC appscan-config.xml file for a given a list of target files.
