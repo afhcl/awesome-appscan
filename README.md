@@ -71,6 +71,7 @@ A collection of useful examples, libraries, and other resources related to HCL A
 - [AIMG Client (.py)](https://github.com/cwtravis/AIMG_Client) - Generic client for creating tickets with The AppScan Issue Gateway service.
 - [AppScan 2 Excel (.py)](https://github.com/masquerad3r/Appscan2Excel) - Merge data from AppScan DAST scan log and .XML report and output .xlsx file.
 - [AppScan to Archer (.py)](https://github.com/smit1759/appscan-to-archer) - Import AppScan results into RSA Archer.
+- [ASoC SAST to ASE (.sh)](https://github.com/jrocia/ImportAppIssues-ASOC-ASE) - Import ASoC SAST issues into ASE.
 
 ## Media
 - [Application Paranoia Podcast](https://appscan.buzzsprout.com/) - Twice-monthly podcast about Applicaiton Security, DevSecOps, and AppScan.
